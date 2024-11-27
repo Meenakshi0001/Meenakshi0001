@@ -1,3 +1,4 @@
+![logo](https://github.com/Meenakshi0001/Meenakshi0001/blob/main/Gray%20White%20Minimalist%20Personal%20Profile%20Linkedin%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Meenakshi Singh</h1>
 <h3 align="center">🚀 Frontend Developer | 🌐 Web Enthusiast | 💻 B.Tech CSIT Student</h3>
 
