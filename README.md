@@ -8,7 +8,12 @@
 
 - 🌐 Proficient in **HTML/CSS, JavaScript, C, React, and MySQL.**
 
-- 📫 How to reach me **meenakshijaisingh921@gmail.com**
+- 📫 How to reach me 📧 **meenakshijaisingh921@gmail.com**
+
+- 💡 Excited by opportunities to solve real-world problems through technology.
+
+- 🌟 Code. Create. Collaborate. Let’s build something amazing together!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
